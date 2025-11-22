@@ -1,16 +1,14 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hey, I’m Luís Pereira!<br><br>🎓 Estudante do 3.º ano de Engenharia de Sistemas Informáticos (IPCA), apaixonado por tecnologia, desenvolvimento de software e por aprender tudo o que me permita evoluir como profissional.<br>💡 Procuro sempre desafios que me façam crescer tanto em programação como em experiências internacionais, porque acredito que a melhor forma de evoluir é experimentar o mundo.<br><br>🚀 About Me<br><br>🎯 Futuro Engenheiro de Software, focado em melhorar competências técnicas e criar soluções úteis.<br><br>🤝 Proativo, comunicativo, responsável e sempre pronto a aprender.<br><br>🎵 Membro da Tuna Académica do IPCA.<br><br>🎙️ Vice-presidente do Núcleo de Engenharia (NEAAIPCA).<br><br>📚 Academic Background<br><br>🎓 Licenciatura em Engenharia de Sistemas Informáticos — IPCA (2023 – Presente)<br>🎓 Curso Profissional de Programação e Gestão de Sistemas Informáticos — Escola Secundária Henrique Medina<br>    • Projeto final: Sistema de gestão para biblioteca escolar<br><br>💼 Professional Experience<br><br>Signed Web Solutions — Estágio de Verão (2025)<br>Trabalho com plataformas low-code usando JavaScript, análise e feedback sobre diferentes ferramentas.<br><br>OffSystems — Estágio  (2022)<br>Desenvolvimento de aplicações de gestão de vendas (frontend + backend).<br>Manutenção de equipamentos eletrónicos.<br><br>Solidal — Estágio (2021)<br>Manutenção do software clínico e gestão de ficheiros de RH.<br><br>🌟 Soft Skills<br><br>Teamwork<br><br>Leadership<br><br>Problem-Solving<br><br>Communication<br><br>Adaptability<br><br>Critical Thinking
 
-<!--
-**LuisPereira22/LuisPereira22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luispereira.05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luis-pereira-846929187/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luispereira1645@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+[![](https://visitcount.itsvg.in/api?id=LuisPereira22&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
